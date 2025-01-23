@@ -1,0 +1,10 @@
+ffmpegのフィルターfbdebでコンソールモード画面のキャプチャができることが一昨日（2025年01月21日）わかった。
+
+複数あるコンソールttyの画面出力のバッファに更新のあったttyに自動でフォーカスして画面を録画するっぽい。
+デスクトップに画面を切り替えるとコンソールが更新されない録画が残る。
+
+
+
+
+昨日（2025年1月22日）みつけたマエガミジカ
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tufteddeer-2.jpg/800px-Tufteddeer-2.jpg)
