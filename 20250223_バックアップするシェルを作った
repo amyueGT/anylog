@@ -1,0 +1,5 @@
+指定したディレクトリのファイル一覧を記録して差分からバックアップするシェルを作った。
+
+自分用で割とテキトーな作りだけど見せるようにちょっといじった。
+
+https://github.com/amyueGT/nannkatsukuttayatsu/blob/9369af9b4611fd37b04a847d72ea699789f4f0a3/make_backup.sh
