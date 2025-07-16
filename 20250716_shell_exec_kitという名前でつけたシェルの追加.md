@@ -7,4 +7,4 @@ shell_exec_kitというのを追加した。
 
 
 画像は見た目が印象的だけど名前を忘れがちなジェレヌク
-![gerenuk](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AC%E3%83%8C%E3%82%AF#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Lightmatter_gerenuk.jpg)
+![gerenuk](https://upload.wikimedia.org/wikipedia/commons/f/f4/Lightmatter_gerenuk.jpg)
